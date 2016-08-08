@@ -1,0 +1,260 @@
+div.container {
+		width               : 100%;
+		height              : 700px;
+		color               : white;
+		background          : url(../images/header.jpg) no-repeat center top;
+		background-position : center center;
+		background-size     : cover;
+}
+
+/* logo */
+
+h2.logo {
+		position    : absolute;
+		left        : 40px;
+		margin-top  : 94px;
+		margin-top  : 32px;
+		font-family : 'Lato',
+		              sans-serif;
+		font-size   : 30px;
+		font-weight : 900;
+}
+
+
+/* presentacion */
+
+h1.name {
+		position    : absolute;
+		top         : 7em;
+		left        : 12em;
+		margin      : -0.33em 0;
+		margin-left : -47px;
+		padding     : 0px;
+		text-align  : center;
+		font-family : 'Lato',
+		              sans-serif;
+		font-size   : 36px;
+		font-weight : 300;
+}
+
+h3.startup {
+		margin-top  : 100px;
+		color       : #5a5a5a;
+		text-align  : center;
+		font-size   : 30px;
+		font-weight : 300;
+}
+
+.contenedor1 {
+		display : inline-flex;
+}
+
+.parrafo {
+		width         : 555px;
+		height        : 112px;
+		margin-top    : 28px;
+		margin-bottom : 62px;
+		margin-left   : 54px;
+		color         : #5a5a5a;
+		text-align    : justify;
+		font-size     : 18px;
+		font-weight   : 300;
+		/* margin-top: 100px; */
+}
+
+div.3 {
+		width  : 100%;
+		height : 100%;
+}
+
+.projectos {
+		position         : relative;
+		height           : 270px;
+		background-color : #F5F5F5;
+}
+
+h1 {
+		margin-top : ;
+}
+
+.projects {
+		position    : absolute;
+		margin-top  : 52px;
+		margin-left : 411px;
+		font-family : 'Lato',
+		              sans-serif;
+		font-size   : 30px;
+		font-weight : 300;
+}
+
+h3.parrafo {
+		position    : absolute;
+		margin-top  : 145px;
+		margin-left : 330px;
+		color       : #666666;
+		text-align  : center;
+		font-family : 'Lato',
+		              sans-serif;
+		font-size   : 18px;
+		font-weight : 300px;
+		line-height : 28px;
+}
+
+div > img {
+		width         : 253px;
+		margin-bottom : -4px;
+}
+
+section.websites {
+		display : inline-flex;
+}
+
+.client {
+		height           : 270px;
+		margin-top       : -17px;
+		background-color : #f5f5f5;
+}
+
+.clientcontenedor {
+		display : inline-flex;
+}
+
+p.someclient {
+		position    : absolute;
+		margin-top  : 97px;
+		margin-left : 421px;
+}
+
+.sass {
+		width        : 60px;
+		height       : 64px;
+		margin-top   : 157px;
+		margin-right : 14px;
+		margin-left  : 202px;
+}
+
+.variant {
+		width       : 140px;
+		height      : 39px;
+		margin-top  : 174px;
+		margin-left : 67px;
+}
+
+.less {
+		width       : 117px;
+		height      : 60px;
+		margin-top  : 162px;
+		margin-left : 91px;
+}
+
+.bootstrap {
+		width       : 140px;
+		height      : 39px;
+		margin-top  : 167px;
+		margin-left : 85px;
+}
+
+.jquery {
+		width       : 140px;
+		height      : 35px;
+		margin-top  : 174px;
+		margin-left : 69px;
+}
+
+.someclient {
+		padding     : 0;
+		color       : #666;
+		font-family : 'Lato',
+		              sans-serif;
+		font-size   : 18px;
+		font-weight : 300;
+		line-height : 28px;
+		/* margin-bottom: 12px; */
+		/* margin-top: 10px; */
+}
+
+.location {
+		height     : 450px;
+		margin-top : -21px;
+		background : url(../images/sep.jpg) no-repeat center top;
+}
+
+.row6h1 {
+		position    : absolute;
+		margin-top  : 126px;
+		margin-left : 327px;
+		color       : white;
+		font-family : 'Lato',
+		              sans-serif;
+		font-size   : 36px;
+		font-weight : 300;
+		line-height : 17px;
+}
+
+.row6h3 {
+		position    : absolute;
+		margin-top  : 247px;
+		margin-left : 364px;
+		color       : white;
+		text-align  : center;
+		font-family : 'Lato',
+		              sans-serif;
+		font-size   : 24px;
+		font-weight : 300;
+}
+
+.footer {
+		/* background-color: #22A7F0; */
+}
+
+.social {
+		height           : 100px;
+		margin-top       : -16px;
+		background-color : #22A7F0;
+}
+
+.socialicons1 {
+		content     : "\f099";
+		position    : absolute;
+		margin-top  : 22px;
+		margin-left : 403px;
+		color       : white;
+}
+
+.socialicons2 {
+		content     : "\f099";
+		position    : absolute;
+		margin-top  : 22px;
+		margin-left : 489px;
+		color       : white;
+}
+
+.socialicons3 {
+		content     : "\f099";
+		position    : absolute;
+		margin-top  : 22px;
+		margin-left : 581px;
+		color       : white;
+}
+
+.socialicons4 {
+		content     : "\f099";
+		position    : absolute;
+		margin-top  : 22px;
+		margin-left : 670px;
+		color       : white;
+}
+
+.desktopicon {
+		margin-top  : 429px;
+		margin-left : 330px;
+}
+
+.desktopicon1 {
+		margin-top  : 429px;
+		margin-left : 157px;
+}
+.desktopicon2 {
+		margin-top  : 429px;
+		margin-left : 185px;
+}

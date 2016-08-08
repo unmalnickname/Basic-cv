@@ -1,0 +1,66 @@
+
+
+div.container {
+	background: url(../images/header.jpg) no-repeat center top;
+	background-position: center center;
+	background-size: cover;
+	 color: white;
+	height: 700px;
+	width: 100%;
+}
+/*logo*/
+
+h2.logo {
+    font-family: 'Lato', sans-serif;
+    margin-top: 94px;
+    position: absolute;
+    left: 40px;
+    margin-top: 32px;
+    font-size: 30px;
+    font-weight: 900;
+}
+/*presentacion*/
+h1 {
+    /* padding: 100px; */
+    left: 12em;
+    top: 7em;
+    position: absolute;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+    margin: -0.33em 0;
+    margin-left: -47px;
+    text-align: center;
+    
+
+}
+
+h3.startup {
+	font-size: 30px;
+	font-weight: 300;
+	text-align: center;
+	margin-top: 100px;
+	color: #5a5a5a;
+}
+
+
+
+p {
+	
+	font-weight: 300;
+	text-align: center;
+	/*margin-top: 100px;*/
+	color: #5a5a5a;
+	width: 555px;
+	height: 112px;
+	font-size: 18px;
+	margin: 0 0 
+}
+
+
+
+
+
+
+
+
